@@ -1,0 +1,1 @@
+This project is to recreate the Google homepage webpage as close as possible. I will be required to use my knowledge of HTML including forms, CSS, git, chrome developer tools etc. 
